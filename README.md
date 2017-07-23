@@ -1,4 +1,4 @@
-# IMP006A
+# IMP006A Zj-58
 IMP006A Zj-58 POS Bluetooth Printer Linux Driver
 
 If you only whant use this printer with usb cable just install driver using: sudo chmod +x install58
@@ -17,9 +17,9 @@ This is how to configure IMP006A or Zj-58 Bluetooth printer on linux by Bluetoot
 9 - Select POS58ppd File and click ADD Printer
 
 
-#Cups link:
+# Cups link:
 https://github.com/apple/cups/releases
 
-#Bluez-cups links:
+# Bluez-cups links:
 https://packages.debian.org/sid/admin/bluez-cups
 https://www.archlinux.org/packages/extra/x86_64/bluez-cups/
